@@ -10,6 +10,9 @@ spring:
     password: and132!#@
     hikari:
       maximum-pool-size: 40
+  redis:
+    host: 110.165.16.138
+
 logging:
   level:
     org:
